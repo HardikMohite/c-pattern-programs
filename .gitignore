@@ -1,0 +1,14 @@
+# Ignore compiled C binaries
+
+*.exe
+*.o
+*.out
+
+# Ignore VSCode settings
+
+.vscode/
+
+# Ignore build folders
+
+build/
+dist/
